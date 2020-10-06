@@ -1,0 +1,29 @@
+h2 {
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    
+  }
+h3 {
+    color:white;
+    font-size: 24px;
+    text-align: center;
+    
+  }
+body {
+    background-image: url("https://www.pexels.com/photo/art-wave-texture-abstract-4871011/");
+    }
+img {
+    border-style: solid;
+    border-width: 5px;
+    color: white;
+    display: block;
+    position: relative;
+    margin-top: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
